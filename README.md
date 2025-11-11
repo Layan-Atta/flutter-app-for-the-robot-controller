@@ -131,7 +131,7 @@
 
 ### 📱 الواجهة الرئيسية
 
-<img src="https://raw.githubusercontent.com/Layan-Atta/flutter-app-for-the-robot-controller/main/GetStarted/1000273735.jpg" width="250" alt="الصفحة الرئيسية">
+![a](1000273735.jpg)
 
 *تصميم عصري بثلاثة أزرار كبيرة لاختيار طريقة الاتصال*
 
@@ -142,12 +142,12 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Layan-Atta/flutter-app-for-the-robot-controller/main/GetStarted/1000273743.jpg" width="250">
+![b](Screenshot_٢٠٢٥١١١١_٠٤٠٢٥٩.jpg)
 <br>
 <b>السلايدرات الأربعة</b>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Layan-Atta/flutter-app-for-the-robot-controller/main/GetStarted/1762823153680.jpeg" width="250">
+![c](Screenshot_٢٠٢٥١١١١_٠٤٠٥٤٥.jpg)
 <br>
 <b>رسالة نجاح الحفظ</b>
 </td>
@@ -161,17 +161,17 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Layan-Atta/flutter-app-for-the-robot-controller/main/GetStarted/1000273748.jpg" width="250">
+![d](Screenshot_٢٠٢٥١١١١_٠٤٠٣٢٧_Permission controller.jpg)
 <br>
 <b>طلب إذن الموقع</b>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Layan-Atta/flutter-app-for-the-robot-controller/main/GetStarted/1000273745.jpg" width="250">
+![dd](Screenshot_٢٠٢٥١١١١_٠٤٠٣٣٢_Permission controller.jpg)
 <br>
 <b>طلب إذن Bluetooth</b>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Layan-Atta/flutter-app-for-the-robot-controller/main/GetStarted/1000273751.jpg" width="250">
+<img src="Screenshot_٢٠٢٥١١١١_٠٤٠٤٠٤.jpg" width="250">
 <br>
 <b>قائمة الأجهزة</b>
 </td>
