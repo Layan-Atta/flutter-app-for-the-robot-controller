@@ -142,12 +142,12 @@
 <table>
 <tr>
 <td align="center">
-![b](Screenshot_٢٠٢٥١١١١_٠٤٠٢٥٩.jpg)
+<img src="Screenshot_٢٠٢٥١١١١_٠٤٠٢٥٩.jpg" width="250">
 <br>
 <b>السلايدرات الأربعة</b>
 </td>
 <td align="center">
-![c](Screenshot_٢٠٢٥١١١١_٠٤٠٥٤٥.jpg)
+<img src="Screenshot_٢٠٢٥١١١١_٠٤٠٥٤٥.jpg" width="250">
 <br>
 <b>رسالة نجاح الحفظ</b>
 </td>
@@ -161,12 +161,12 @@
 <table>
 <tr>
 <td align="center">
-![d](Screenshot_٢٠٢٥١١١١_٠٤٠٣٢٧_Permission controller.jpg)
+<img src="Screenshot_٢٠٢٥١١١١_٠٤٠٣٢٧_Permission controller.jpg" width="250">
 <br>
 <b>طلب إذن الموقع</b>
 </td>
 <td align="center">
-![dd](Screenshot_٢٠٢٥١١١١_٠٤٠٣٣٢_Permission controller.jpg)
+<img src="Screenshot_٢٠٢٥١١١١_٠٤٠٣٣٢_Permission controller.jpg" width="250">
 <br>
 <b>طلب إذن Bluetooth</b>
 </td>
