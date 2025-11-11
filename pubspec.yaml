@@ -1,0 +1,40 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # تم توسيع النطاق قليلاً للتوافق
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # --- 🚀 الإضافات المطلوبة للتاسك ---
+
+  # 1. مكتبة للاتصال بالـ Wi-Fi (لإرسال أوامر HTTP لقاعدة البيانات)
+  http: ^1.2.1
+
+  # 2. مكتبة للاتصال بالبلوتوث (للاتصال بـ ESP)
+  flutter_blue_plus: ^1.31.22
+
+  # 3. مكتبة للاتصال بـ Serial/USB (للاتصال المباشر بالأردوينو)
+  flutter_libserialport: ^0.6.0
+
+  # --- نهاية الإضافات ---
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
